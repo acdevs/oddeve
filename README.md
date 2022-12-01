@@ -1,2 +1,2 @@
 # OddEve
-Python Built famous "OddEve game.
+Python Built.
